@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatial on Lucas Springer</title>
+    <link>http://lucasspringer.com/tags/spatial/</link>
+    <description>Recent content in Spatial on Lucas Springer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jan 2021 14:18:59 +0100</lastBuildDate><atom:link href="http://lucasspringer.com/tags/spatial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oakland Ecology Master Plan</title>
+      <link>http://lucasspringer.com/posts/oakland-vegetation-master-plan/</link>
+      <pubDate>Thu, 21 Jan 2021 14:18:59 +0100</pubDate>
+      
+      <guid>http://lucasspringer.com/posts/oakland-vegetation-master-plan/</guid>
+      <description>&lt;p&gt;A spatial visualization of different factors affecting the implementation of an urban forestry master plan&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fracking Induced Earthquakes</title>
+      <link>http://lucasspringer.com/posts/fracking-induced-earthquakes/</link>
+      <pubDate>Wed, 20 Jan 2021 14:18:59 +0100</pubDate>
+      
+      <guid>http://lucasspringer.com/posts/fracking-induced-earthquakes/</guid>
+      <description>&lt;p&gt;A comparative thesis on the production of oil/natural gas &amp;amp; earthquake frequency&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

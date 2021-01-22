@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adobe Suite on Lucas Springer</title>
+    <link>http://lucasspringer.com/tags/adobe-suite/</link>
+    <description>Recent content in Adobe Suite on Lucas Springer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jan 2021 14:18:59 +0100</lastBuildDate><atom:link href="http://lucasspringer.com/tags/adobe-suite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Berkeley Zero Waste</title>
+      <link>http://lucasspringer.com/posts/uc-berkeley-web-design/</link>
+      <pubDate>Tue, 19 Jan 2021 14:18:59 +0100</pubDate>
+      
+      <guid>http://lucasspringer.com/posts/uc-berkeley-web-design/</guid>
+      <description>&lt;p&gt;Web Development and Design Projects @UC Berkeley Cal Zero Waste&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

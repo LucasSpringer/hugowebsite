@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Springer</title>
+    <link>http://lucasspringer.com/</link>
+    <description>Recent content on Lucas Springer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jan 2021 14:18:59 +0100</lastBuildDate><atom:link href="http://lucasspringer.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oakland Ecology Master Plan</title>
+      <link>http://lucasspringer.com/posts/oakland-vegetation-master-plan/</link>
+      <pubDate>Thu, 21 Jan 2021 14:18:59 +0100</pubDate>
+      
+      <guid>http://lucasspringer.com/posts/oakland-vegetation-master-plan/</guid>
+      <description>&lt;p&gt;A spatial visualization of different factors affecting the implementation of an urban forestry master plan&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://lucasspringer.com/about/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucasspringer.com/about/</guid>
+      <description>I&amp;rsquo;m a 24 year old spatial data analyst, full-stack developer, and environmental advocate with 2+ years of work experience in the sustainability &amp;amp; waste management sectors. I have a B.Sc. from UC Berkeley with a major focusing on Environmental Data Science. I&amp;rsquo;m passionate about using technology to tackle environmental problems and to spread awareness about them! I&amp;rsquo;m a digital native with a strong background in design, marketing, GIS/ENVI, Earth Engine Beta, and data analysis/development using R, Python, and Node.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://lucasspringer.com/contact/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucasspringer.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fracking Induced Earthquakes</title>
+      <link>http://lucasspringer.com/posts/fracking-induced-earthquakes/</link>
+      <pubDate>Wed, 20 Jan 2021 14:18:59 +0100</pubDate>
+      
+      <guid>http://lucasspringer.com/posts/fracking-induced-earthquakes/</guid>
+      <description>&lt;p&gt;A comparative thesis on the production of oil/natural gas &amp;amp; earthquake frequency&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Berkeley Zero Waste</title>
+      <link>http://lucasspringer.com/posts/uc-berkeley-web-design/</link>
+      <pubDate>Tue, 19 Jan 2021 14:18:59 +0100</pubDate>
+      
+      <guid>http://lucasspringer.com/posts/uc-berkeley-web-design/</guid>
+      <description>&lt;p&gt;Web Development and Design Projects @UC Berkeley Cal Zero Waste&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://lucasspringer.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucasspringer.com/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

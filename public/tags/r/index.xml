@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Lucas Springer</title>
+    <link>http://lucasspringer.com/tags/r/</link>
+    <description>Recent content in R on Lucas Springer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 14:18:59 +0100</lastBuildDate><atom:link href="http://lucasspringer.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fracking Induced Earthquakes</title>
+      <link>http://lucasspringer.com/posts/fracking-induced-earthquakes/</link>
+      <pubDate>Wed, 20 Jan 2021 14:18:59 +0100</pubDate>
+      
+      <guid>http://lucasspringer.com/posts/fracking-induced-earthquakes/</guid>
+      <description>&lt;p&gt;A comparative thesis on the production of oil/natural gas &amp;amp; earthquake frequency&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
